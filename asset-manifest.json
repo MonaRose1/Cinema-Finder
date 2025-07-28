@@ -1,0 +1,40 @@
+{
+  "files": {
+    "main.js": "/Cinema-Finder/static/js/main.57106f19.js",
+    "static/js/389.6d725d1c.chunk.js": "/Cinema-Finder/static/js/389.6d725d1c.chunk.js",
+    "static/js/558.52d32e4a.chunk.js": "/Cinema-Finder/static/js/558.52d32e4a.chunk.js",
+    "static/js/730.670ba59b.chunk.js": "/Cinema-Finder/static/js/730.670ba59b.chunk.js",
+    "static/css/946.aae40bd2.chunk.css": "/Cinema-Finder/static/css/946.aae40bd2.chunk.css",
+    "static/js/946.714dca5f.chunk.js": "/Cinema-Finder/static/js/946.714dca5f.chunk.js",
+    "static/js/55.e30cb783.chunk.js": "/Cinema-Finder/static/js/55.e30cb783.chunk.js",
+    "static/js/675.ebfa2ff6.chunk.js": "/Cinema-Finder/static/js/675.ebfa2ff6.chunk.js",
+    "static/js/879.401899e7.chunk.js": "/Cinema-Finder/static/js/879.401899e7.chunk.js",
+    "static/js/944.f87f13e5.chunk.js": "/Cinema-Finder/static/js/944.f87f13e5.chunk.js",
+    "static/js/250.c94637e7.chunk.js": "/Cinema-Finder/static/js/250.c94637e7.chunk.js",
+    "static/css/177.43dae1a5.chunk.css": "/Cinema-Finder/static/css/177.43dae1a5.chunk.css",
+    "static/js/177.7bd20819.chunk.js": "/Cinema-Finder/static/js/177.7bd20819.chunk.js",
+    "static/js/223.a0b53bbc.chunk.js": "/Cinema-Finder/static/js/223.a0b53bbc.chunk.js",
+    "static/media/BCC.png": "/Cinema-Finder/static/media/BCC.600fce542c970a4f45c9.png",
+    "static/media/Reading.svg": "/Cinema-Finder/static/media/Reading.b316f645e47fc7ff43a37fbf299016fd.svg",
+    "static/media/Hoyts.svg": "/Cinema-Finder/static/media/Hoyts.165e7ada2c872e5a428f787cc2d0abdd.svg",
+    "static/media/Event Cinemas.svg": "/Cinema-Finder/static/media/Event Cinemas.7ffd3dc3fda38afe5e0036daaec35f92.svg",
+    "index.html": "/Cinema-Finder/index.html",
+    "main.57106f19.js.map": "/Cinema-Finder/static/js/main.57106f19.js.map",
+    "389.6d725d1c.chunk.js.map": "/Cinema-Finder/static/js/389.6d725d1c.chunk.js.map",
+    "558.52d32e4a.chunk.js.map": "/Cinema-Finder/static/js/558.52d32e4a.chunk.js.map",
+    "730.670ba59b.chunk.js.map": "/Cinema-Finder/static/js/730.670ba59b.chunk.js.map",
+    "946.aae40bd2.chunk.css.map": "/Cinema-Finder/static/css/946.aae40bd2.chunk.css.map",
+    "946.714dca5f.chunk.js.map": "/Cinema-Finder/static/js/946.714dca5f.chunk.js.map",
+    "55.e30cb783.chunk.js.map": "/Cinema-Finder/static/js/55.e30cb783.chunk.js.map",
+    "675.ebfa2ff6.chunk.js.map": "/Cinema-Finder/static/js/675.ebfa2ff6.chunk.js.map",
+    "879.401899e7.chunk.js.map": "/Cinema-Finder/static/js/879.401899e7.chunk.js.map",
+    "944.f87f13e5.chunk.js.map": "/Cinema-Finder/static/js/944.f87f13e5.chunk.js.map",
+    "250.c94637e7.chunk.js.map": "/Cinema-Finder/static/js/250.c94637e7.chunk.js.map",
+    "177.43dae1a5.chunk.css.map": "/Cinema-Finder/static/css/177.43dae1a5.chunk.css.map",
+    "177.7bd20819.chunk.js.map": "/Cinema-Finder/static/js/177.7bd20819.chunk.js.map",
+    "223.a0b53bbc.chunk.js.map": "/Cinema-Finder/static/js/223.a0b53bbc.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.57106f19.js"
+  ]
+}
